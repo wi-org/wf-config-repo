@@ -1,0 +1,8 @@
+{
+    "workflow-valid": {
+        "valid": "checkout"
+    },
+    "environment": {
+        "uat": "uat"
+    }
+}
